@@ -1,4 +1,4 @@
-# Install Docker with Neo4j Ubuntu Server
+# Install Neo4j with Docker Ubuntu Server
 
 
 ### Install using the repository
